@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "crumb": [],
+  "mobx": true,
+  "route": "<%= route%>"
+}
